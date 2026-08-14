@@ -1,0 +1,50 @@
+{
+  "sample": {
+    "league_seasons": 1371,
+    "team_seasons": 16452,
+    "seasons": "2018-2025",
+    "formats": [
+      "PPR",
+      "half-PPR"
+    ]
+  },
+  "primary": {
+    "question": "RB/WR allocation through Round 6",
+    "supported_tier": [
+      "RB-heavy (3+)",
+      "Balanced (2)"
+    ],
+    "pooled_leader": "RB-heavy (3+)",
+    "adjusted_points_zscore": 0.027036543044821,
+    "ci": [
+      0.0011379668034807,
+      0.0520292038393778
+    ],
+    "runner_up": "Balanced (2)",
+    "leader_minus_runner": 0.0263011788021569,
+    "leader_minus_runner_ci": [
+      -0.0129430921685671,
+      0.0638628822320354
+    ],
+    "adjusted_points_per_week_above_league": 0.3085117261387421,
+    "adjusted_top_6_rate": 0.5088732902739249,
+    "evidence_grade": "moderate pooled; mixed forward",
+    "availability_conditioned_leader": "RB-heavy (3+)"
+  },
+  "first_round": {
+    "answer": "No clear edge",
+    "rb_minus_wr_points_zscore": -0.0239596855797588,
+    "ci": [
+      -0.0588716974819468,
+      0.0093360926317634
+    ],
+    "available_only_rb_minus_wr": 0.0264284760893102,
+    "evidence_grade": "inconclusive"
+  },
+  "limitations": [
+    "Public Sleeper leagues are a convenience sample.",
+    "Draft strategy is not randomized and manager skill is unmeasured.",
+    "Availability conditioning is post-draft.",
+    "The study estimates team-level regular-season scoring associations, not player value or playoff wins."
+  ]
+}

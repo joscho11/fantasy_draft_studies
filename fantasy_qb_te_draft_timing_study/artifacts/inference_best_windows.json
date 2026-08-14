@@ -1,0 +1,20 @@
+[
+  {
+    "position":"QB",
+    "timing_window":"12+",
+    "n":830,
+    "adjusted_points_zscore":0.1166010824,
+    "ci_low":0.0567315292,
+    "ci_high":0.1799737261,
+    "top_6_rate":0.5457831325
+  },
+  {
+    "position":"TE",
+    "timing_window":"10-11",
+    "n":1692,
+    "adjusted_points_zscore":0.0784229093,
+    "ci_low":0.0361789514,
+    "ci_high":0.1253043032,
+    "top_6_rate":0.5310283688
+  }
+]

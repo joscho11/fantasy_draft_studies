@@ -1,0 +1,3 @@
+position,supported_round_window,n,adjusted_points_zscore,ci_low,ci_high,top_6_rate,forward_tests_selecting_window,positive_forward_tests,evidence_grade
+QB,12+,830,0.1166010824061917,0.0567315291927443,0.1799737260647461,0.5457831325301205,1,1,exploratory
+TE,10-11,1692,0.0784229093120641,0.0361789514348775,0.1253043031691869,0.5310283687943262,3,2,moderate

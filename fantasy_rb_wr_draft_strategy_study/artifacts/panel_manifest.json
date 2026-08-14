@@ -1,0 +1,29 @@
+{
+  "source_primary_leagues": 1422,
+  "retained_league_seasons": 1371,
+  "retained_team_seasons": 16452,
+  "excluded_otherwise_eligible_standard_leagues": 6,
+  "excluded_early_pick_trade_leagues": 22,
+  "retained_by_season": {
+    "2018": 4,
+    "2019": 38,
+    "2020": 66,
+    "2021": 104,
+    "2022": 216,
+    "2023": 250,
+    "2024": 360,
+    "2025": 333
+  },
+  "retained_by_scoring": {
+    "half_ppr": 409,
+    "ppr": 962
+  },
+  "strategy_support": {
+    "Balanced (2)": 8666,
+    "RB-heavy (3+)": 5303,
+    "WR-heavy (1)": 2229,
+    "Zero RB (0)": 254
+  },
+  "first_round_rb_wr_teams": 15781,
+  "lineup_settings_coverage": 1.0
+}

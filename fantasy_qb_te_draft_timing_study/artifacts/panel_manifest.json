@@ -1,0 +1,29 @@
+{
+  "source_league_seasons": 3641,
+  "draft_payloads": 3641,
+  "pick_payloads": 3641,
+  "complete_boards": 3566,
+  "primary_league_seasons": 1422,
+  "primary_team_seasons": 17064,
+  "teams_without_drafted_qb": 21,
+  "teams_without_drafted_te": 33,
+  "primary_by_season": {
+    "2018": 5,
+    "2019": 42,
+    "2020": 75,
+    "2021": 109,
+    "2022": 222,
+    "2023": 259,
+    "2024": 367,
+    "2025": 343
+  },
+  "exclusions": {
+    "not_1qb": 1661,
+    "non_redraft_or_idp": 1924,
+    "te_premium": 1142,
+    "keeper_picks": 115,
+    "incomplete_board": 75,
+    "no_required_te": 59,
+    "short_draft": 295
+  }
+}

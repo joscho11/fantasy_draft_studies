@@ -1,0 +1,53 @@
+{
+  "source_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "teams": 12,
+  "allowed_scoring_types": [
+    "ppr",
+    "half_ppr"
+  ],
+  "required_rb_slots": 2,
+  "allowed_wr_slots": [
+    2,
+    3
+  ],
+  "minimum_flex_slots": 1,
+  "checkpoints": [
+    2,
+    4,
+    6,
+    8
+  ],
+  "primary_checkpoint": 6,
+  "primary_strategies": [
+    "Zero RB (0)",
+    "WR-heavy (1)",
+    "Balanced (2)",
+    "RB-heavy (3+)"
+  ],
+  "primary_reference": "Balanced (2)",
+  "minimum_cell_n": 100,
+  "bootstrap_replicates": 2000,
+  "robustness_bootstrap_replicates": 750,
+  "random_seed": 20260814,
+  "availability_threshold": 0.75,
+  "primary_outcome": "points_zscore",
+  "secondary_outcomes": [
+    "points_per_week_above_league",
+    "top_6_points",
+    "points_rank",
+    "top_regular_season_scorer"
+  ],
+  "first_round_positions": [
+    "WR",
+    "RB"
+  ]
+}

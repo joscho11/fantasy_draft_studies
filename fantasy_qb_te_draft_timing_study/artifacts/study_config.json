@@ -1,0 +1,41 @@
+{
+  "source_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "teams": 12,
+  "allowed_scoring_types": [
+    "ppr",
+    "half_ppr",
+    "std"
+  ],
+  "minimum_draft_rounds": 12,
+  "qb_slots": 1,
+  "superflex_slots": 0,
+  "minimum_te_slots": 1,
+  "exclude_keeper_picks": true,
+  "exclude_te_premium": true,
+  "timing_windows": [
+    "1-3",
+    "4-5",
+    "6-7",
+    "8-9",
+    "10-11",
+    "12+"
+  ],
+  "joint_minimum_cell_n": 100,
+  "bootstrap_replicates": 2000,
+  "random_seed": 20260813,
+  "primary_outcome": "points_zscore",
+  "secondary_outcomes": [
+    "points_rank",
+    "top_6_points",
+    "top_regular_season_scorer"
+  ]
+}

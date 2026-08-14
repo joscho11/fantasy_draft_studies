@@ -1,0 +1,15 @@
+# Local environments and generated interpreter state
+**/.vendor/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
+**/.pytest_cache/
+
+# Large, reproducible API and draft-board caches
+**/data/cache/*
+!**/data/cache/.gitkeep
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

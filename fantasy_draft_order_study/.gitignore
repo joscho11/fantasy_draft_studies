@@ -1,0 +1,11 @@
+data/cache/*.sqlite
+data/cache/*.json
+data/cache/*.jsonl
+data/cache/*.csv
+data/interim/*.csv
+data/raw/*.csv
+data/processed/*.csv
+artifacts/*.csv
+artifacts/*.json
+__pycache__/
+*.pyc
