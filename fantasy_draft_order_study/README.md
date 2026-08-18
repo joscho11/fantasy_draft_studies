@@ -2,7 +2,7 @@
 
 **Question:** In completed season-long 12-team standard snake leagues, how does draft slot relate to regular-season points performance?
 
-Public GitHub: [joscho11/fantasy_draft_order_study](https://github.com/joscho11/fantasy_draft_order_study).
+Public GitHub: [joscho11/fantasy_draft_studies](https://github.com/joscho11/fantasy_draft_studies) (this study is a subdirectory).
 
 Results are descriptive associations in a convenience sample of public Sleeper leagues. They are not a causal draft-order effect, and they do not speak to best ball, head-to-head record, or playoffs.
 
