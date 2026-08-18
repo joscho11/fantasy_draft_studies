@@ -146,6 +146,7 @@ fantasy_draft_order_study/
   data/cache/      Resumable HTTP response cache (reproducibility source)
   data/processed/  Team-season and analysis-panel data
   artifacts/       Manifests, charts, and inference summaries
+  catonsville/     Catonsville FF 2023-2025 application (canvas copy)
 ```
 
 Treat the files under `data/cache/` as the reproducibility source of record. Do not delete or regenerate them unless intentionally expanding the study. The current panel can be rebuilt from cache without further Sleeper API calls.
